@@ -2,6 +2,8 @@
 
 Currently hosted using netlify, this simple app allows users to choose a key to update the chord map that can be used for easy composition of chord progressions.
 
+https://chordmap.netlify.com/
+
 
 
 ### `npm start`
